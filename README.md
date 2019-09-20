@@ -1,4 +1,6 @@
 # budget-controller
 
-The project about OOP programming in JavaScript
+The project is about OOP programming in JavaScript
+
+
 
